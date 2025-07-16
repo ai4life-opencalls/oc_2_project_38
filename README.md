@@ -9,6 +9,7 @@
 ## A 3D human motor neuron disease platform for high throughput drug screening
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15088622.svg)](https://doi.org/10.5281/zenodo.15088622)
+![Static Badge](https://img.shields.io/badge/Data_on_BIA-S--BIAD1737-blue?link=https%3A%2F%2Fdoi.org%2F10.6019%2FS-BIAD1737)
 
 
 ---
